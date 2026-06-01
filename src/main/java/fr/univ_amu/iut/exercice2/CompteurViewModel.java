@@ -1,5 +1,6 @@
 package fr.univ_amu.iut.exercice2;
 
+import javafx.beans.binding.Bindings;
 import javafx.beans.property.SimpleStringProperty;
 import javafx.beans.property.StringProperty;
 
